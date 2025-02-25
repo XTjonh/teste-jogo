@@ -3,25 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <title>Document</title>
-</head>
-<body>
-=======
-=======
->>>>>>> feature
     <title>sistema</title>
 </head>
 <body>
-
-    <div>
+    <div class="navbar">
+        <h1>teste</h1>
         
     </div>
-<<<<<<< HEAD
->>>>>>> feature
-=======
->>>>>>> feature
-    
 </body>
 </html>
