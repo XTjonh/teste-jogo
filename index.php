@@ -13,5 +13,8 @@
     <div class="feature">
         <p>feature</p>
     </div>
+    <div class="hotfix">
+        <p>hotfix</p>
+    </div>
 </body>
 </html>
