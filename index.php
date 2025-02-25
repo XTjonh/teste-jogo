@@ -6,12 +6,10 @@
     <title>sistema</title>
 </head>
 <body>
-
-    <div>
+    <div class="navbar">
+        <h1>teste</h1>
         
     </div>
-    <div class="feature">
-        <h2>dsd</h2>
-    </div>
+    
 </body>
 </html>
